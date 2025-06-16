@@ -6,7 +6,7 @@ export default function BetaMVP() {
   const [unlocked, setUnlocked] = useState(false);
   const [input, setInput] = useState("");
 
-  const password = "truefray123"; // Change this to your own
+  const password = "0sklajf394783414"; // Change this to your own
 
   if (!unlocked) {
     return (
